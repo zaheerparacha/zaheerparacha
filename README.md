@@ -3,11 +3,8 @@
 <!--
 **zaheerparacha/zaheerparacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on various Projects
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Data Engineering
+- 🔭 I’m currently working on Various Data Projects
+- 👯 I’m looking to collaborate and pursue career on Data Engineering
 - 💬 Ask me about Data Sciene, Python, ML, NLP
 - 📫 How to reach me: https://www.linkedin.com/in/zaheer-paracha-88976419/
 --><picture>
